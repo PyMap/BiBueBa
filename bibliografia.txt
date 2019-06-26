@@ -1,0 +1,22 @@
+Casuistica y ejemplos:
+---------------------
+1)http://revistascientificas.filo.uba.ar/index.php/rtt/article/view/223
+2)http://hum.unne.edu.ar/revistas/geoweb/Geo13/contenidos/vialrcia2.htm
+3)https://city-informatics.com/wp-content/uploads/2018/11/Lecture_Tutorial_NetworkX.pdf
+4)http://ericmjl.github.io/Network-Analysis-Made-Simple/bonus-3-matrices-instructor.html
+
+Analisis espacial:
+-----------------
+1)https://stackoverflow.com/questions/19915266/drawing-a-graph-with-networkx-on-a-basemap
+2) http://www.sociology-hacks.org/?p=67
+3)https://www.plotly.express/
+4)https://blog.prototypr.io/interactive-maps-in-python-part-3-29f14a9b2f7d
+5)https://deck.gl/#/examples/core-layers/arc-layer
+6) https://automating-gis-processes.github.io/2017/lessons/L7/network-analysis.html
+
+ffmpeg:
+------
+https://video.stackexchange.com/questions/20495/how-do-i-set-up-and-use-ffmpeg-in-windows
+https://deparkes.co.uk/2018/01/05/create-video-images-ffmpeg/
+https://www.youtube.com/watch?v=zGlHc1p3x3s
+https://www.youtube.com/watch?v=pHR3ttH5t-w
